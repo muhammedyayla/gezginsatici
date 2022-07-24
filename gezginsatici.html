@@ -1,14 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gezgin Satıcı</title>
+    <title>Kurye Sistemi</title>
+    <link rel="stylesheet" href="site.css">
 </head>
 <body>
+    <div id="search-places">
+        <input type="text" placeholder="Gidilecek yeri seçiniz" id="search-places-input">
+        <input type="button" value="Ekle" id="add-places-button" onclick="addToList()">
+        <input type="button" value="Rota Çiz" onclick="callRoute()">
+    </div>
     <div id="map"></div>
-    <script src="map.js"></script>
-    
+    <div id="panel"></div>
+    <div id="place-list"></div>
+    <script src="map.js"></script>"https://maps.googleapis.com/maps/api/js?key=KEYİNİZ&callback=initMap&libraries=places&v=weekly"
+    <script async defer src=></script>
 </body>
 </html>
