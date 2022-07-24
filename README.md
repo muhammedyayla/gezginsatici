@@ -5,7 +5,7 @@
 
 ## Nasıl Google API Key alınır?
 
-[Google API Keyinizi](***https://console.cloud.google.com/projectcreat*** ) sitesinden yeni proje oluşturup ve adımları siteden takip ederek temin edebilirsiniz
+[Google API Keyinizi](https://console.cloud.google.com/projectcreat) sitesinden yeni proje oluşturup ve adımları siteden takip ederek temin edebilirsiniz
 ## Ödeme Yöntemleri
 
 Key için kredi hesabınızdan ***(kredi kartı ve sanal kart olması önemlidir)*** 1tl ile bir sanal kart oluşturun ve bunu [Link a billing account](https://console.cloud.google.com/freetrial/signup/tos?redirectPath=%2Fbilling%2Flinkedaccount%3Fproject%3Dthird-booth-357320&project=959069148173) diyerek hesap bilgileriniz girin. Zaten Google Platform size yaklaşık 300$ sadece bu keyleri almak için ayrıcalık tanıyor. API keyiniz oluşturulmuştur.
