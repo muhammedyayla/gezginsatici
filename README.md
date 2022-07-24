@@ -22,7 +22,7 @@ Google Maps API Keyinizi temin etmek için kredi kartı bilgilerinizi girmeniz g
 `
 Arama yaparken benzer yerleri gösteren servisdir.
 `
-Çalıştırmak için API Keyinizi "https://maps.googleapis.com/maps/api/js?key=KEYİNİZ&callback=initMap&libraries=places&v=weekly" ***& işaretinden sonra callback=initMap&libraries=places&v=weekly
+Çalıştırmak için API Keyinizi "https://maps.googleapis.com/maps/api/js?key=KEYİNİZ&callback=initMap&libraries=places&v=weekly" ***& işaretinden sonra callback=initMap&libraries=places&v=weekly***
 ifadesini girerek çalıştırabilirsiniz.
 [Daha detaylı anlatım](https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete) için bu siteden faydalanın.
 
