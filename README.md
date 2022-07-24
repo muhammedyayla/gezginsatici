@@ -29,10 +29,10 @@ ifadesini girerek çalıştırabilirsiniz.
 ## Projenin çalıştığına dair örnek fotoğralar.
 
 
-[Konum Fotoğrafları](https://www.hizliresim.com/p6wk4e5)
-[Rota Çizimi](https://www.hizliresim.com/jud852i)
-[Yol Tarifi](https://www.hizliresim.com/sfwqkd5)
-[Örnek Alert](https://www.hizliresim.com/1sbbr1p)
+* [Konum Fotoğrafları](https://www.hizliresim.com/p6wk4e5) 
+* [Rota Çizimi](https://www.hizliresim.com/jud852i) 
+* [Yol Tarifi](https://www.hizliresim.com/sfwqkd5)
+* [Örnek Alert](https://www.hizliresim.com/1sbbr1p)
 
 ## Destek
 ``
