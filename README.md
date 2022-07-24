@@ -12,8 +12,8 @@ Key için kredi hesabınızdan ***(kredi kartı ve sanal kart olması önemlidir
 
 
 ## Servisler
-``
-[Buradan](https://developers.google.com/maps/documentation/javascript/examples/directions-complex) Directions Services ve benzeri servisleri temin edebilirsiniz.
+
+[Buradan](https://developers.google.com/maps/documentation/javascript/examples/directions-complex) ``Directions Services ve benzeri servisleri temin edebilirsiniz.
 ``
 ## Google Maps API Key Paylaşmama Sebebim
 
